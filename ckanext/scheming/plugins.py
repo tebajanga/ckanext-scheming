@@ -2,7 +2,7 @@
 # encoding: utf-8
 import ckan.plugins as p
 from ckan.common import c
-from ckantoolkit import (
+from ckan.plugins.toolkit import (
     DefaultDatasetForm,
     DefaultGroupForm,
     DefaultOrganizationForm,
